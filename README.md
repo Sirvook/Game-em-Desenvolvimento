@@ -1,6 +1,5 @@
 # Game-em-Desenvolvimento
 Curso DankiCode
-# ToDo_ListApp
 <div align="center">
 
 
@@ -12,7 +11,7 @@ Curso DankiCode
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias utilizadas)
+- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Preview](#-Preview)
 
 ---
