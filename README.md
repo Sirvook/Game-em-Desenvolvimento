@@ -3,8 +3,10 @@ Curso DankiCode
 <div align="center">
 
 
-[![GitHub stars](https://img.shields.io/github/stars/Sirvook/ToDo_ListApp)](https://github.com/Sirvook/ToDo_ListApp/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/Sirvook/ToDo_ListApp)](https://github.com/Sirvook/ToDo_ListApp/blob/master/LICENSE
-)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/Sirvook/ToDo_ListApp)](https://github.com/henriqtm1/ToDo_ListApp/network/members)
+
+i'm Vitor Guilherme and this is my first project in game development along with the Danki code course.
+
+https://github.com/Sirvook
 
 </div>
 
