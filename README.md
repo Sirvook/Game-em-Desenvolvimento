@@ -12,7 +12,7 @@ Curso DankiCode
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias ultilizadas)
+- [Tecnologias utilizadas](#-Tecnologias utilizadas)
 - [Preview](#-Preview)
 
 ---
